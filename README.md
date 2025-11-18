@@ -1,6 +1,6 @@
 # Hype vs Price: Ozempic Search Interest vs NVO Stock
 
-![Ozempic vs NVO plot](ozempic_zscore.png)
+![Ozempic vs NVO plot](ozempic-zscore.png)
 
 This project analyzes how public interest in Ozempic (via Google Trends)
 relates to Novo Nordisk's stock price (NVO), using weekly time series data.
